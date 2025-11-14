@@ -10,8 +10,7 @@ This service provides a REST API endpoint that generates high-quality, productio
 - Generate Python, FastAPI, Node.js, React, TypeScript, Go, and more  
 -  Powered by **Azure OpenAI GPT-4o**  
 -  LangChain `@tool` integration for agent workflows  
--  FastAPI backend with automatic docs  
--  Fully containerized using Docker  
+-  FastAPI backend with automatic docs   
 -  Dependency-managed with Poetry  
  
 
